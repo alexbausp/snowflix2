@@ -1,0 +1,98 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Safadeza",
+      "cor": "#ff6a00",
+      "link_extra": {
+        "text": "Safadeza",
+        "url": "https://youtube.com/c/DevSoutinho"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Colinho",
+      "cor": "red",
+      "link_extra": {
+        "text": "Colinho",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Ele tambem ronca",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Ele tambem ronca",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Drama para comer",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Drama para comer",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Investimentos",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Dicas Itau Corretora",
+        "url": "https://www.youtube.com/watch?v=pvJIfJEszyo"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Filmes",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Filmes",
+        "url": "https://www.youtube.com/watch?v=faWdIXTezww"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Snow",
+      "description": "Aniversario do Snow",
+      "url": "https://www.youtube.com/watch?v=42R9-FDGIAM"
+    },
+    {
+      "id": 2,
+      "categoriaId": 2,
+      "titulo": "No colinho",
+      "description": "No colinho",
+      "url": "https://www.youtube.com/watch?v=hc0HNpDfM3Q"
+    },
+    {
+      "id": 3,
+      "categoriaId": 6,
+      "titulo": "A Chegada",
+      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+    },
+    {
+      "id": 4,
+      "categoriaId": 6,
+      "titulo": "Feitiço do Tempo",
+      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+    },
+    {
+      "titulo": "Como investir de forma consciente - parte 1",
+      "url": "https://www.youtube.com/watch?v=Vf-6_MVGyTM",
+      "categoriaId": 5,
+      "id": 5
+    },
+    {
+      "titulo": "Como investir de forma consciente - parte 2",
+      "url": "https://www.youtube.com/watch?v=gnqXZsH7bVw",
+      "categoriaId": 5,
+      "id": 6
+    }
+  ]
+}
