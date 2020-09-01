@@ -19,7 +19,7 @@ function CadastroCategoria() {
   useEffect(() => {
     const URL_TOP = window.location.hostname.includes('localhost')
       ? 'http://localhost:8080/categorias'
-      : 'https://devsoutinhoflix.herokuapp.com/categorias';//(mudar para URL do Snowflix)
+      : 'https://snowflix2.herokuapp.com/categorias';//(mudar para URL do Snowflix)
     // E a ju ama variáveis
     fetch(URL_TOP)
       .then(async (respostaDoServidor) => {
